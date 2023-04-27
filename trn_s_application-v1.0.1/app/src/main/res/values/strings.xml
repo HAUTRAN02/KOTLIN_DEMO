@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">trn_s_application</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_hello">Hello</string>
+<string name="msg_2019_planthink">2019 ©Planthink. All rights reserved.</string>
+<string name="lbl_login">LOGIN</string>
+<string name="lbl_taylor_swift">Taylor Swift </string>
+<string name="lbl_username">Username</string>
+<string name="msg_don_t_have_acco">Don\u2019t Have Account?</string>
+<string name="msg_let_s_learn_mor">Let\u2019s Learn More About Plants</string>
+<string name="lbl_sign_up">Sign Up</string>
+<string name="lbl_password">Password</string>
+<string name="lbl_remember_me">Remember me</string>
+<string name="msg_forgot_password">Forgot Password?</string>
+</resources>
